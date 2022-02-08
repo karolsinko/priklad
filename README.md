@@ -1,0 +1,2 @@
+# priklad
+random
